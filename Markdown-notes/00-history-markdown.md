@@ -14,12 +14,12 @@
 - **Discord Markdown** - Используется в чатах. Только базовые фишки: **жирный**, *курсив*, ~~зачёркивание~~, код.
 
 ### Навигация по разделу:
-[Параграфы и разрывы строк в Markdown][1]
-[Как писать заголовоки в Markdown ?][2]
-[Выделение текста в Markdown][3]
-[Списки в Markdown][4]
-[Вставка ссылок, картинок и кода в Markdown][5]
-[Как сделать таблицы в Markdown?][6]
+[Параграфы и разрывы строк в Markdown][1]       
+[Как писать заголовоки в Markdown ?][2]          
+[Выделение текста в Markdown][3]           
+[Списки в Markdown][4]               
+[Вставка ссылок, картинок и кода в Markdown][5]                 
+[Как сделать таблицы в Markdown?][6]                  
 
 [1]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/01-paragraphs-and-line-breaks.md
 [2]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/02-headings.md
