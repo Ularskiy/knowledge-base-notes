@@ -13,21 +13,6 @@
 - **Obsidian Markdown** - Используется в Obsidian. Добавлены wikilinks ([[название]]), ссылки между заметками, встроенные блоки.
 - **Discord Markdown** - Используется в чатах. Только базовые фишки: **жирный**, *курсив*, ~~зачёркивание~~, код.
 
-### Навигация по разделу:
-[Параграфы и разрывы строк в Markdown][1]       
-[Как писать заголовоки в Markdown ?][2]          
-[Выделение текста в Markdown][3]           
-[Списки в Markdown][4]               
-[Вставка ссылок, картинок и кода в Markdown][5]                 
-[Как сделать таблицы в Markdown?][6]                  
-
-[1]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/01-paragraphs-and-line-breaks.md
-[2]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/02-headings.md
-[3]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/03-emphasis.md
-[4]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/04-list.md
-[5]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/05-inserting-links%2Cimages-and-code.md
-[6]: https://github.com/Ularskiy/knowledge-base-notes/blob/main/Markdown-notes/06-tables.md
-
 > Помимо диалектов, **Markdown** так же является  стандартизированным языком разметки и все благодаря **CommonMark**.  
 
 Но до **CommonMark** оригинальный **Markdown** был простым и гибким, но не имел стандартированные четкие правила, из - за этого один и тот же Markdown-файл в разных редакторах ототображался по разному. Это сильно усложняет работу, поэтому **CommonMark** решает эту неодназночнось. 
